@@ -25,12 +25,15 @@ Based in **South Korea** · Working at **MSI** · [halukkilincer.com](https://ha
 ### Tech I work with
 
 ```text
-Languages     Java
-Backend       Spring Boot · Spring Security · Spring Data JPA
-Data          PostgreSQL · H2
-API           REST · OpenAPI / Swagger · JWT
-Tooling       Maven · Docker · Git
-Practices     SOLID · Clean Code · Layered architecture
+Languages     Java · Python · C · C++ · JavaScript · HTML · CSS
+Backend       Spring Boot · Spring Security · Spring Data JPA · Django · Django REST Framework
+Frontend      HTML · CSS · JavaScript
+Data          PostgreSQL · H2 · Redis · SQLite
+API           REST · OpenAPI / Swagger · JWT · OAuth2
+Desktop       Java Swing
+Tooling       Maven · pip · Docker · Docker Compose · Git · Linux
+Practices     SOLID · Clean Code · Layered architecture · Design Patterns · TDD basics
+Domains       MES · QMS · Factory / industrial systems
 ```
 
 ---
