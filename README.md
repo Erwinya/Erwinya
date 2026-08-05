@@ -40,7 +40,7 @@ A Quality Management System project connected to my core industrial domain — q
 
 ## Other work
 
-- [JavaSwingProject](https://github.com/Erwinya/JavaSwingProject) — a desktop Notepad-style application with a modular design
+- [swing-notepad](https://github.com/Erwinya/swing-notepad) — a desktop Notepad-style application with a modular design
 - [Simple-Text-Based-Adventure-Engine](https://github.com/Erwinya/Simple-Text-Based-Adventure-Engine) — a Java game engine used to practice architecture and clean design
 
 ---
