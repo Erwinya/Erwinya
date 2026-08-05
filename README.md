@@ -36,6 +36,9 @@ A school administration API for teachers, students, classes, and managers. Desig
 ### [qms-ncr-service](https://github.com/Erwinya/qms-ncr-service)
 A Nonconformance Report (NCR) API for quality workflows: create reports, track severity/lot context, and enforce status transitions. Built for local demo with H2 and OpenAPI.
 
+### [qms-inspection-service](https://github.com/Erwinya/qms-inspection-service)
+A quality Inspection API for planned-to-completed checks, results, and optional NCR references. Spring Boot service with local H2, Docker Postgres, and OpenAPI.
+
 ---
 
 ## Other work
