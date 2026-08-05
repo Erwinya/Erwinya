@@ -33,14 +33,14 @@ A user identity API for registration, login, and profile access. Built as a clea
 ### [teacher-information-system](https://github.com/Erwinya/teacher-information-system)
 A school administration API for teachers, students, classes, and managers. Designed with a clear structure for maintainability and easy local development.
 
-### [QMS](https://github.com/Erwinya/QMS)
-A Quality Management System project connected to my core industrial domain — quality processes, structure, and operational software thinking.
+### [qms-ncr-service](https://github.com/Erwinya/qms-ncr-service)
+A Nonconformance Report (NCR) API for quality workflows: create reports, track severity/lot context, and enforce status transitions. Built for local demo with H2 and OpenAPI.
 
 ---
 
 ## Other work
 
-- [swing-notepad](https://github.com/Erwinya/swing-notepad) — a desktop Notepad-style application with a modular design
+- [noteshelf](https://github.com/Erwinya/noteshelf) — NoteShelf, a focused multi-note desktop editor
 - [Simple-Text-Based-Adventure-Engine](https://github.com/Erwinya/Simple-Text-Based-Adventure-Engine) — a Java game engine used to practice architecture and clean design
 
 ---
