@@ -1,7 +1,7 @@
 ### Hi, I'm Haluk Kılınçer
 
-Industrial software developer focused on **MES**, **QMS**, and factory systems.  
-I build clean, scalable application code that connects production operations with reliable software.
+Industrial software developer focused on **MES**, **QMS**, and factory systems in the **semiconductor** domain.  
+I build clean, scalable application code that connects production operations with reliable software, and explore **AI**-assisted approaches for smarter manufacturing and quality workflows.
 
 Based in **South Korea** · Working at **MSI** · [halukkilincer.com](https://halukkilincer.com)
 
@@ -33,7 +33,7 @@ API           REST · OpenAPI / Swagger · JWT · OAuth2
 Desktop       Java Swing
 Tooling       Maven · pip · Docker · Docker Compose · Git · Linux
 Practices     SOLID · Clean Code · Layered architecture · Design Patterns · TDD basics
-Domains       MES · QMS · Factory / industrial systems
+Domains       MES · QMS · Semiconductor · Factory systems · AI in manufacturing
 ```
 
 ---
