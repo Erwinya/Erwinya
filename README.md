@@ -1,4 +1,4 @@
-# Haluk Kılınçer
+# Haluk Kılınçer 
 
 Industrial software developer based in **South Korea**, working at **MSI**.  
 I build software for manufacturing and quality systems in the **semiconductor** industry, with interest in practical **AI** applications for factory and quality workflows.
