@@ -43,6 +43,9 @@ A quality Inspection API for planned-to-completed checks, results, and optional 
 
 ## Other work
 
+- [api-console](https://github.com/Erwinya/api-console) — browser HTTP console for inspecting requests (Fetch API, no backend)
+- [lot-metrics](https://github.com/Erwinya/lot-metrics) — lot/inspection CSV aggregator with outlier detection
+- [cli-report](https://github.com/Erwinya/cli-report) — terminal renderer for QA/inspection JSON summaries
 - [noteshelf](https://github.com/Erwinya/noteshelf) — NoteShelf, a focused multi-note desktop editor
 - [Simple-Text-Based-Adventure-Engine](https://github.com/Erwinya/Simple-Text-Based-Adventure-Engine) — a Java game engine used to practice architecture and clean design
 
