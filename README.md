@@ -66,8 +66,9 @@ NoteShelf — a focused multi-note desktop editor built with Java Swing. Persist
 
 **Learning & experiments**
 
+- [adventure-engine](https://github.com/Erwinya/adventure-engine) — fantasy text RPG in Java (Aetheria / Void Lord)
+- [realm-quest](https://github.com/Erwinya/realm-quest) — cyberpunk neon-heist text RPG in Java (Neo-Circuit)
 - [teacher-information-system](https://github.com/Erwinya/teacher-information-system) — school administration REST API
-- [Simple-Text-Based-Adventure-Engine](https://github.com/Erwinya/Simple-Text-Based-Adventure-Engine) — Java text adventure engine for architecture practice
 
 ---
 
