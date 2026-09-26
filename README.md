@@ -63,6 +63,18 @@ NoteShelf — a focused multi-note desktop editor built with Java Swing. Persist
 - [lot-metrics](https://github.com/Erwinya/lot-metrics) — Python CLI for lot CSV aggregation and outlier detection
 - [api-console](https://github.com/Erwinya/api-console) — browser HTTP console for inspecting requests (Fetch API, no backend)
 - [cli-report](https://github.com/Erwinya/cli-report) — terminal renderer for QA/inspection JSON summaries
+- [schema-guard](https://github.com/Erwinya/schema-guard) — stdlib Python JSON Schema subset validator
+- [form-validator](https://github.com/Erwinya/form-validator) — client-side form rules with accessible inline errors
+- [log-sift](https://github.com/Erwinya/log-sift) — access/app log summarizer (status codes, paths, errors)
+- [json-mini](https://github.com/Erwinya/json-mini) — small C++17 JSON parse / pretty / validate CLI
+- [secret-scan](https://github.com/Erwinya/secret-scan) — local secret-pattern hygiene scanner
+- [taskflow](https://github.com/Erwinya/taskflow) — tiny dependency-aware task runner (DAG)
+
+**Systems & C++**
+
+- [formula-vm](https://github.com/Erwinya/formula-vm) — tiny expression language on a C++17 stack VM
+- [git-stats](https://github.com/Erwinya/git-stats) — Git repo summary CLI (commits, authors, subjects)
+- [redis-lite](https://github.com/Erwinya/redis-lite) — educational in-memory Redis-like TCP server
 
 **Learning & experiments**
 
