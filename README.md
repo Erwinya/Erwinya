@@ -69,12 +69,15 @@ NoteShelf — a focused multi-note desktop editor built with Java Swing. Persist
 - [json-mini](https://github.com/Erwinya/json-mini) — small C++17 JSON parse / pretty / validate CLI
 - [secret-scan](https://github.com/Erwinya/secret-scan) — local secret-pattern hygiene scanner
 - [taskflow](https://github.com/Erwinya/taskflow) — tiny dependency-aware task runner (DAG)
+- [async-fetcher](https://github.com/Erwinya/async-fetcher) — concurrent asyncio HTTP fetch CLI (stdlib)
+- [table-engine](https://github.com/Erwinya/table-engine) — client-side table filter, sort, and pagination helpers
 
 **Systems & C++**
 
 - [formula-vm](https://github.com/Erwinya/formula-vm) — tiny expression language on a C++17 stack VM
 - [git-stats](https://github.com/Erwinya/git-stats) — Git repo summary CLI (commits, authors, subjects)
 - [redis-lite](https://github.com/Erwinya/redis-lite) — educational in-memory Redis-like TCP server
+- [maze-craft](https://github.com/Erwinya/maze-craft) — C++17 maze generator (DFS) and BFS solver
 
 **Learning & experiments**
 
